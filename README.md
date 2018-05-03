@@ -13,7 +13,7 @@ Postman Collection to Test few Marvel API end points.
     * **hash**: Hash in MD5 created from *ts*, *pubkey* and *pvtkey*
 > Time to Run! Good Luck!
 
-This file was written with [Dillinger.io](https://dillinger.io/) Online Editor and :octocat:
+This file was written with [Dillinger.io](https://dillinger.io/) Online Editor and [:octocat:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
  
 
