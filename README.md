@@ -12,3 +12,5 @@ Postman Collection to Test few Marvel API end points.
     * **apikey**: The same *pubkey* value
     * **hash**: Hash in MD5 created from *ts*, *pubkey* and *pvtkey*
 > Time to Run! Good Luck!
+
+This file was written with [Dillinger.io](https://dillinger.io/) Online Editor
