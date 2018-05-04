@@ -8,7 +8,11 @@ Postman Collection to Test few Marvel API end points.
    * Private Key
 * Import the *Testing Marvel API.postman_collection.json* to your Postman Environment
 * When Editing your Collection, go to the *Pre-request* Tab
-* Edit *pubkey* and *pvtkey* variables values to the one you've just get at **Marvel Developer Page**
+* Edit *pubkey* and *pvtkey* variables values to the one you've just get at **Marvel Developer Page** or go to the file and change the following lines:
+```javascript
+var pubkey = "<INSERT YOUR PUBLIC KEY>"
+var pvtkey = "<INSERT YOUR PRIVATE KEY>"
+```
 * Other **Enviromnent Variables** will be automatically created, they are:
     * **ts**: Time stamp required
     * **apikey**: The same *pubkey* value
