@@ -18,7 +18,7 @@ Postman Collection to Test few Marvel API end points.
     * **apikey**: The same *pubkey* value
     * **hash**: Hash in MD5 created from *ts*, *pubkey* and *pvtkey*
 ```javascript
-	pm.environment.set(\*\*"ts"\*\*, ts);
+	pm.environment.set("ts", ts);
 	pm.environment.set("apikey", pubkey);
 	var message = ts+pvtkey+pubkey;
 	var a = CryptoJS.MD5(message);
