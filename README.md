@@ -1,6 +1,8 @@
 # Postman Collection to Marvel API
 Postman Collection to Test few Marvel API end points.
 
+![Marvel for Developers](http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52bdf830aa094.jpg "Marvel")
+
 * Go to [Marvel Developer Page](https://developer.marvel.com/) to Sign in and get
    * Public Key
    * Private Key
