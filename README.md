@@ -27,12 +27,3 @@ Postman Collection to Test few Marvel API end points.
 > Time to Run! Good Luck! Good Night! Sleep well
 
 This file was written with [Dillinger.io](https://dillinger.io/) Online Editor and [:octocat:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-
-trying-branches-out... changes made in other branch
-
-Line done at the "New Feature branch"
-
-new feat
- 
-
-
