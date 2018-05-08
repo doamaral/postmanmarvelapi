@@ -24,7 +24,7 @@ Postman Collection to Test few Marvel API end points.
 	var a = CryptoJS.MD5(message);
 	pm.environment.set("hash", a.toString());
 ```
-> Time to Run! Good Luck!
+> Time to Run! Good Luck! Good Night! Sleep well
 
 This file was written with [Dillinger.io](https://dillinger.io/) Online Editor and [:octocat:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
