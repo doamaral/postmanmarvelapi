@@ -30,6 +30,9 @@ This file was written with [Dillinger.io](https://dillinger.io/) Online Editor a
 
 trying-branches-out... changes made in other branch
 
+Line done at the "New Feature branch"
+
+new feat
  
 
 
